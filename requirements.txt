@@ -1,0 +1,9 @@
+streamlit
+langchain-community
+langchain-classic
+langchain-core
+langchain-text-splitters
+langchain-groq
+faiss-cpu
+pymupdf
+fastembed
