@@ -93,4 +93,4 @@ The first run downloads the small embedding model, so it may take a moment to st
 
 **Shanmendra Sai Gajula**
 B.Tech student, KL University
-[LinkedIn](www.linkedin.com/in/shanmendra-sai-gajula) · [GitHub](https://github.com/shanmendrasaigajula-123)
+[LinkedIn](https://www.linkedin.com/in/shanmendra-sai-gajula/) · [GitHub](https://github.com/shanmendrasaigajula-123)
