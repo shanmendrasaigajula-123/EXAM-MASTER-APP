@@ -2,9 +2,9 @@
 
 A Retrieval-Augmented Generation (RAG) app that answers questions using **only the PDFs you upload**, and shows the exact file and page each answer came from.
 
-**Live demo:** [your-app-name.streamlit.app](https://your-app-name.streamlit.app) <!-- replace with your deployed link -->
+**Live demo:**[Live Demo](https://shanmendra-exam-master-app.streamlit.app/) <!-- replace with your deployed link -->
 
-![App screenshot](screenshot.png) <!-- add a screenshot of the app to your repo and keep this filename -->
+![App screenshot]<img width="1926" height="977" alt="EXAM-MASTER-APP" src="https://github.com/user-attachments/assets/7b19e045-1c30-4464-8d3e-636eb9fe83e1" /> <!-- add a screenshot of the app to your repo and keep this filename -->
 
 ## What it does
 
@@ -93,4 +93,4 @@ The first run downloads the small embedding model, so it may take a moment to st
 
 **Shanmendra Sai Gajula**
 B.Tech student, KL University
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+[LinkedIn](www.linkedin.com/in/shanmendra-sai-gajula) · [GitHub](https://github.com/shanmendrasaigajula-123)
